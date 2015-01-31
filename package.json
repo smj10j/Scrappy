@@ -1,0 +1,39 @@
+{
+  "name": "Scrappy",
+  "version": "0.0.1",
+  "description": "A scrappy scraper",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/nodemon/bin/nodemon.js -x casperjs index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smj10j/Scrappy.git"
+  },
+  "keywords": [
+    "javascript",
+    "scrape",
+    "product",
+    "scrape",
+    "client",
+    "scrape",
+    "browser",
+    "scrape",
+    "parse",
+    "scrape",
+    "extract"
+  ],
+  "author": "Stephen Johnson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smj10j/Scrappy/issues"
+  },
+  "homepage": "https://github.com/smj10j/Scrappy",
+  "devDependencies": {
+    "nodemon": "^1.3.5"
+  }
+}
