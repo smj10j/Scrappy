@@ -9,7 +9,7 @@ Setup
 -----
 
 ```bash
-git pull git@github.com:smj10j/Scrappy.git
+git clone git@github.com:smj10j/Scrappy.git
 cd Scrappy
 npm install
 npm start
